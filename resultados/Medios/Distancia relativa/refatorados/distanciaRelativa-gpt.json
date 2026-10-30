@@ -1,0 +1,113 @@
+{
+  "codigo": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\TCC\\Implementacao\\Codigos\\Medios\\Distancia relativa\\refatorados\\distanciaRelativa-gpt.js",
+  "versaoNode": "v22.11.0",
+  "aquecimento": 10000,
+  "execucoesPorAmostra": 100000,
+  "quantidadeAmostras": 10,
+  "cpusLogicasDisponiveis": 8,
+  "resultadoExecucao": 2,
+  "tempoExecucaoMs": {
+    "media": 0.008651646,
+    "mediana": 0.0072682614999999996,
+    "desvioPadrao": 0.0026332412869509315
+  },
+  "cpu": {
+    "tempoMedioMs": 0.00864,
+    "utilizacaoComputadorPercentual": 12.490577926359386
+  },
+  "memoria": {
+    "picoRssMiB": 69.09765625
+  },
+  "amostras": [
+    {
+      "amostra": 1,
+      "execucoes": 100000,
+      "tempoTotalMs": 681.4952,
+      "tempoMedioMs": 0.006814951999999999,
+      "cpuTotalMs": 734,
+      "cpuMedioMs": 0.00734,
+      "utilizacaoCpuComputadorPercentual": 13.463044200458052
+    },
+    {
+      "amostra": 2,
+      "execucoes": 100000,
+      "tempoTotalMs": 661.9163,
+      "tempoMedioMs": 0.006619163,
+      "cpuTotalMs": 656,
+      "cpuMedioMs": 0.00656,
+      "utilizacaoCpuComputadorPercentual": 12.38827326053158
+    },
+    {
+      "amostra": 3,
+      "execucoes": 100000,
+      "tempoTotalMs": 702.6427,
+      "tempoMedioMs": 0.007026427,
+      "cpuTotalMs": 703,
+      "cpuMedioMs": 0.00703,
+      "utilizacaoCpuComputadorPercentual": 12.5063563600675
+    },
+    {
+      "amostra": 4,
+      "execucoes": 100000,
+      "tempoTotalMs": 761.3451,
+      "tempoMedioMs": 0.007613451,
+      "cpuTotalMs": 719,
+      "cpuMedioMs": 0.00719,
+      "utilizacaoCpuComputadorPercentual": 11.804765013920756
+    },
+    {
+      "amostra": 5,
+      "execucoes": 100000,
+      "tempoTotalMs": 705.6884,
+      "tempoMedioMs": 0.007056884,
+      "cpuTotalMs": 688,
+      "cpuMedioMs": 0.00688,
+      "utilizacaoCpuComputadorPercentual": 12.186681827276741
+    },
+    {
+      "amostra": 6,
+      "execucoes": 100000,
+      "tempoTotalMs": 606.144,
+      "tempoMedioMs": 0.00606144,
+      "cpuTotalMs": 609,
+      "cpuMedioMs": 0.00609,
+      "utilizacaoCpuComputadorPercentual": 12.55889689578714
+    },
+    {
+      "amostra": 7,
+      "execucoes": 100000,
+      "tempoTotalMs": 747.9639,
+      "tempoMedioMs": 0.007479639,
+      "cpuTotalMs": 749,
+      "cpuMedioMs": 0.00749,
+      "utilizacaoCpuComputadorPercentual": 12.517315341021137
+    },
+    {
+      "amostra": 8,
+      "execucoes": 100000,
+      "tempoTotalMs": 1287.2681,
+      "tempoMedioMs": 0.012872681,
+      "cpuTotalMs": 1282,
+      "cpuMedioMs": 0.01282,
+      "utilizacaoCpuComputadorPercentual": 12.448844184051481
+    },
+    {
+      "amostra": 9,
+      "execucoes": 100000,
+      "tempoTotalMs": 1285.308,
+      "tempoMedioMs": 0.01285308,
+      "cpuTotalMs": 1281,
+      "cpuMedioMs": 0.01281,
+      "utilizacaoCpuComputadorPercentual": 12.458103427349709
+    },
+    {
+      "amostra": 10,
+      "execucoes": 100000,
+      "tempoTotalMs": 1211.8743,
+      "tempoMedioMs": 0.012118743,
+      "cpuTotalMs": 1219,
+      "cpuMedioMs": 0.01219,
+      "utilizacaoCpuComputadorPercentual": 12.57349875312976
+    }
+  ]
+}

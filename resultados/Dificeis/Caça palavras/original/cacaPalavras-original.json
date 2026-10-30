@@ -1,0 +1,194 @@
+{
+  "codigo": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\TCC\\Implementacao\\Codigos\\Dificeis\\Caça palavras\\original\\codigo_cacaPalavras.js",
+  "versaoNode": "v22.11.0",
+  "aquecimento": 10000,
+  "execucoesPorAmostra": 100000,
+  "quantidadeAmostras": 10,
+  "cpusLogicasDisponiveis": 8,
+  "resultadoExecucao": {
+    "clojure": {
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    "elixir": {
+      "start": [
+        5,
+        6
+      ],
+      "end": [
+        5,
+        1
+      ]
+    },
+    "ecmascript": {
+      "start": [
+        1,
+        10
+      ],
+      "end": [
+        10,
+        10
+      ]
+    },
+    "rust": {
+      "start": [
+        5,
+        9
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    "java": {
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        4,
+        4
+      ]
+    },
+    "lua": {
+      "start": [
+        9,
+        8
+      ],
+      "end": [
+        7,
+        6
+      ]
+    },
+    "ruby": {
+      "start": [
+        6,
+        8
+      ],
+      "end": [
+        9,
+        5
+      ]
+    },
+    "hello": {
+      "start": [
+        8,
+        4
+      ],
+      "end": [
+        4,
+        8
+      ]
+    }
+  },
+  "tempoExecucaoMs": {
+    "media": 0.046944396,
+    "mediana": 0.048129703999999995,
+    "desvioPadrao": 0.011753220286282878
+  },
+  "cpu": {
+    "tempoMedioMs": 0.046578,
+    "utilizacaoComputadorPercentual": 12.405434618459301
+  },
+  "memoria": {
+    "picoRssMiB": 54.34375
+  },
+  "amostras": [
+    {
+      "amostra": 1,
+      "execucoes": 100000,
+      "tempoTotalMs": 4649.2491,
+      "tempoMedioMs": 0.046492491,
+      "cpuTotalMs": 4500,
+      "cpuMedioMs": 0.045,
+      "utilizacaoCpuComputadorPercentual": 12.098727942970404
+    },
+    {
+      "amostra": 2,
+      "execucoes": 100000,
+      "tempoTotalMs": 3220.3296,
+      "tempoMedioMs": 0.032203296,
+      "cpuTotalMs": 3203,
+      "cpuMedioMs": 0.03203,
+      "utilizacaoCpuComputadorPercentual": 12.432733593480618
+    },
+    {
+      "amostra": 3,
+      "execucoes": 100000,
+      "tempoTotalMs": 3490.3455,
+      "tempoMedioMs": 0.034903455,
+      "cpuTotalMs": 3469,
+      "cpuMedioMs": 0.03469,
+      "utilizacaoCpuComputadorPercentual": 12.423555203918925
+    },
+    {
+      "amostra": 4,
+      "execucoes": 100000,
+      "tempoTotalMs": 5856.3277,
+      "tempoMedioMs": 0.058563277,
+      "cpuTotalMs": 5797,
+      "cpuMedioMs": 0.05797,
+      "utilizacaoCpuComputadorPercentual": 12.37336838237382
+    },
+    {
+      "amostra": 5,
+      "execucoes": 100000,
+      "tempoTotalMs": 5923.481,
+      "tempoMedioMs": 0.05923481,
+      "cpuTotalMs": 5922,
+      "cpuMedioMs": 0.05922,
+      "utilizacaoCpuComputadorPercentual": 12.496874726195628
+    },
+    {
+      "amostra": 6,
+      "execucoes": 100000,
+      "tempoTotalMs": 5879.944,
+      "tempoMedioMs": 0.05879944,
+      "cpuTotalMs": 5844,
+      "cpuMedioMs": 0.05844,
+      "utilizacaoCpuComputadorPercentual": 12.423587707638031
+    },
+    {
+      "amostra": 7,
+      "execucoes": 100000,
+      "tempoTotalMs": 5769.6608,
+      "tempoMedioMs": 0.057696607999999996,
+      "cpuTotalMs": 5734,
+      "cpuMedioMs": 0.05734,
+      "utilizacaoCpuComputadorPercentual": 12.42274069213913
+    },
+    {
+      "amostra": 8,
+      "execucoes": 100000,
+      "tempoTotalMs": 4976.6917,
+      "tempoMedioMs": 0.049766917,
+      "cpuTotalMs": 4953,
+      "cpuMedioMs": 0.04953,
+      "utilizacaoCpuComputadorPercentual": 12.440493350231037
+    },
+    {
+      "amostra": 9,
+      "execucoes": 100000,
+      "tempoTotalMs": 2529.9297,
+      "tempoMedioMs": 0.025299297000000002,
+      "cpuTotalMs": 2531,
+      "cpuMedioMs": 0.02531,
+      "utilizacaoCpuComputadorPercentual": 12.505288190418886
+    },
+    {
+      "amostra": 10,
+      "execucoes": 100000,
+      "tempoTotalMs": 4648.4369,
+      "tempoMedioMs": 0.046484369,
+      "cpuTotalMs": 4625,
+      "cpuMedioMs": 0.04625,
+      "utilizacaoCpuComputadorPercentual": 12.436976395226534
+    }
+  ]
+}
