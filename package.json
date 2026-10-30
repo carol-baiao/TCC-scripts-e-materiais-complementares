@@ -1,0 +1,25 @@
+{
+  "name": "nova-implementacao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js",
+    "test:refatorados": "node benchmarks/testar-refatorados.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carol-baiao/TCC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/carol-baiao/TCC/issues"
+  },
+  "homepage": "https://github.com/carol-baiao/TCC#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
