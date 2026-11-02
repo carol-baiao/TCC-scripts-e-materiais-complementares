@@ -148,9 +148,9 @@ const result = {
     resultadoExecucao: lastResult,
 
     tempoExecucaoMs: {
-        media: mean(times),
-        mediana: median(times),
-        desvioPadrao: standardDeviation(times)
+        media: mean(samples.map(sample => sample.tempoTotalMs)),
+        mediana: median(samples.map(sample => sample.tempoTotalMs)),
+        desvioPadrao: standardDeviation(samples.map(sample => sample.tempoTotalMs))
     },
 
     cpu: {
@@ -186,8 +186,7 @@ console.log(
     `CPU média: ${result.cpu.tempoMedioMs.toFixed(6)} ms`
 );
 console.log(
-    `Utilização média da capacidade lógica disponível: ${
-        result.cpu.utilizacaoComputadorPercentual?.toFixed(2) ?? "N/A"
+    `Utilização média da capacidade lógica disponível: ${result.cpu.utilizacaoComputadorPercentual?.toFixed(2) ?? "N/A"
     }%`
 );
 console.log(`CPUs lógicas disponíveis: ${CPUS_DISPONIVEIS}`);
