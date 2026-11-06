@@ -1,8 +1,8 @@
-const VALUES = Array.from({ length: 128 }, (_, index) => index + 1);
+const SIZE = 512;
+const VALUES = Array.from({ length: SIZE }, (_, index) => index + 1);
 
 export function execute(solutionModule) {
     const { List } = solutionModule;
-
     if (typeof List !== "function") {
         throw new Error("A função construtora List não foi encontrada.");
     }
@@ -11,10 +11,13 @@ export function execute(solutionModule) {
     const reversed = list.reverse();
     const result = reversed.toArray();
 
+    let sum = 0;
+    for (const value of result) sum += value;
+
     return {
         length: result.length,
         first: result[0],
-        last: result.at(-1),
-        sum: result.reduce((total, value) => total + value, 0)
+        last: result[result.length - 1],
+        sum
     };
 }

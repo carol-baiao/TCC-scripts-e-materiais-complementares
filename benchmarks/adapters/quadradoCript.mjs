@@ -1,10 +1,9 @@
 const PLAINTEXT = (
     "If man was meant to stay on the ground, god would have given us roots. "
-).repeat(2);
+).repeat(4);
 
 export function execute(solutionModule) {
     const { Crypto } = solutionModule;
-
     if (typeof Crypto !== "function") {
         throw new Error("A classe Crypto não foi encontrada.");
     }

@@ -49,50 +49,6 @@ const CONFIGURACAO = {
   "Zipper": {
     teste: "zipper.test.js",
     arquivoEsperado: "zipper.js"
-  },
-  "Book store": {
-    teste: "bookStore.test.js",
-    arquivoEsperado: "book-store.js"
-  },
-  "Distancia relativa": {
-    teste: "distanciaRelativa.test.js",
-    arquivoEsperado: "relative-distance.js"
-  },
-  "Maior produto de uma serie": {
-    teste: "maiorProduto.test.js",
-    arquivoEsperado: "largest-series-product.js"
-  },
-  "Matriz espiral": {
-    teste: "matrizEspiral.test.js",
-    arquivoEsperado: "spiral-matrix.js"
-  },
-  "Números OCR": {
-    teste: "numerosOCR.test.js",
-    arquivoEsperado: "ocr-numbers.js"
-  },
-  "Pontos de sela": {
-    teste: "pontosSela.test.js",
-    arquivoEsperado: "saddle-points.js"
-  },
-  "Conjectura de Collatz": {
-    teste: "collatz.test.js",
-    arquivoEsperado: "collatz-conjecture.js"
-  },
-  "Conta bancaria": {
-    teste: "contaBancaria.test.js",
-    arquivoEsperado: "bank-account.js"
-  },
-  "Era espacial": {
-    teste: "eraEspacial.test.js",
-    arquivoEsperado: "space-age.js"
-  },
-  "Pangrama": {
-    teste: "pangrama.test.js",
-    arquivoEsperado: "pangram.js"
-  },
-  "Transcrição de RNA": {
-    teste: "RNA.test.js",
-    arquivoEsperado: "rna-transcription.js"
   }
 };
 

@@ -1,0 +1,136 @@
+{
+  "dataExecucao": "2026-11-02T23:52:48.494Z",
+  "totalArquivosEncontrados": 9,
+  "totalImplementacoes": 9,
+  "aprovadas": 9,
+  "reprovadas": 0,
+  "ignoradas": 0,
+  "resultados": [
+    {
+      "exercicio": "Boliche",
+      "implementacao": "codigo_boliche.js",
+      "caminho": "Codigos\\Dificeis\\Boliche\\original\\codigo_boliche.js",
+      "aprovado": true,
+      "testes": {
+        "total": 31,
+        "aprovados": 31,
+        "falhos": 0,
+        "ignorados": 0
+      },
+      "erroExecucao": "",
+      "detalhesFalhas": []
+    },
+    {
+      "exercicio": "Buffer circular",
+      "implementacao": "codigo_bufferCircular.js",
+      "caminho": "Codigos\\Dificeis\\Buffer circular\\original\\codigo_bufferCircular.js",
+      "aprovado": true,
+      "testes": {
+        "total": 14,
+        "aprovados": 14,
+        "falhos": 0,
+        "ignorados": 0
+      },
+      "erroExecucao": "",
+      "detalhesFalhas": []
+    },
+    {
+      "exercicio": "Caça palavras",
+      "implementacao": "codigo_cacaPalavras.js",
+      "caminho": "Codigos\\Dificeis\\Caça palavras\\original\\codigo_cacaPalavras.js",
+      "aprovado": true,
+      "testes": {
+        "total": 26,
+        "aprovados": 26,
+        "falhos": 0,
+        "ignorados": 0
+      },
+      "erroExecucao": "",
+      "detalhesFalhas": []
+    },
+    {
+      "exercicio": "Forth",
+      "implementacao": "codigo_forth.js",
+      "caminho": "Codigos\\Dificeis\\Forth\\original\\codigo_forth.js",
+      "aprovado": true,
+      "testes": {
+        "total": 55,
+        "aprovados": 55,
+        "falhos": 0,
+        "ignorados": 0
+      },
+      "erroExecucao": "",
+      "detalhesFalhas": []
+    },
+    {
+      "exercicio": "Lista encadeada simples",
+      "implementacao": "codigo_listaEncadeada.js",
+      "caminho": "Codigos\\Dificeis\\Lista encadeada simples\\original\\codigo_listaEncadeada.js",
+      "aprovado": true,
+      "testes": {
+        "total": 23,
+        "aprovados": 23,
+        "falhos": 0,
+        "ignorados": 0
+      },
+      "erroExecucao": "",
+      "detalhesFalhas": []
+    },
+    {
+      "exercicio": "Quadrado criptografico",
+      "implementacao": "codigo_quadradoCript.js",
+      "caminho": "Codigos\\Dificeis\\Quadrado criptografico\\original\\codigo_quadradoCript.js",
+      "aprovado": true,
+      "testes": {
+        "total": 8,
+        "aprovados": 7,
+        "falhos": 0,
+        "ignorados": 1
+      },
+      "erroExecucao": "",
+      "detalhesFalhas": []
+    },
+    {
+      "exercicio": "React",
+      "implementacao": "codigo_react.js",
+      "caminho": "Codigos\\Dificeis\\React\\original\\codigo_react.js",
+      "aprovado": true,
+      "testes": {
+        "total": 13,
+        "aprovados": 13,
+        "falhos": 0,
+        "ignorados": 0
+      },
+      "erroExecucao": "",
+      "detalhesFalhas": []
+    },
+    {
+      "exercicio": "Troco",
+      "implementacao": "codigo_troco.js",
+      "caminho": "Codigos\\Dificeis\\Troco\\original\\codigo_troco.js",
+      "aprovado": true,
+      "testes": {
+        "total": 13,
+        "aprovados": 13,
+        "falhos": 0,
+        "ignorados": 0
+      },
+      "erroExecucao": "",
+      "detalhesFalhas": []
+    },
+    {
+      "exercicio": "Zipper",
+      "implementacao": "codigo_zipper.js",
+      "caminho": "Codigos\\Dificeis\\Zipper\\original\\codigo_zipper.js",
+      "aprovado": true,
+      "testes": {
+        "total": 20,
+        "aprovados": 20,
+        "falhos": 0,
+        "ignorados": 0
+      },
+      "erroExecucao": "",
+      "detalhesFalhas": []
+    }
+  ]
+}

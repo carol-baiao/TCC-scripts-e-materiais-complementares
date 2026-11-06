@@ -1,113 +1,113 @@
 {
-  "codigo": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\TCC\\Implementacao\\Codigos\\Dificeis\\Boliche\\refatorados\\boliche-gemini.js",
+  "codigo": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\TCC\\Nova implementacao\\Codigos\\Dificeis\\Boliche\\refatorados\\boliche-gemini.js",
   "versaoNode": "v22.11.0",
   "aquecimento": 10000,
   "execucoesPorAmostra": 100000,
   "quantidadeAmostras": 10,
   "cpusLogicasDisponiveis": 8,
-  "resultadoExecucao": 156,
+  "resultadoExecucao": 300,
   "tempoExecucaoMs": {
-    "media": 0.0039661021,
-    "mediana": 0.0038008315,
-    "desvioPadrao": 0.0005774816240344709
+    "media": 1605.1631000000002,
+    "mediana": 1211.99255,
+    "desvioPadrao": 673.4930751024245
   },
   "cpu": {
-    "tempoMedioMs": 0.0039689999999999994,
-    "utilizacaoComputadorPercentual": 12.564907217795476
+    "tempoMedioMs": 0.016093000000000003,
+    "utilizacaoComputadorPercentual": 12.526340132282012
   },
   "memoria": {
-    "picoRssMiB": 40.890625
+    "picoRssMiB": 53.4296875
   },
   "amostras": [
     {
       "amostra": 1,
       "execucoes": 100000,
-      "tempoTotalMs": 383.4125,
-      "tempoMedioMs": 0.0038341250000000003,
-      "cpuTotalMs": 437,
-      "cpuMedioMs": 0.00437,
-      "utilizacaoCpuComputadorPercentual": 14.247057672871907
+      "tempoTotalMs": 3052.6601,
+      "tempoMedioMs": 0.030526601,
+      "cpuTotalMs": 3093,
+      "cpuMedioMs": 0.03093,
+      "utilizacaoCpuComputadorPercentual": 12.665183392019308
     },
     {
       "amostra": 2,
       "execucoes": 100000,
-      "tempoTotalMs": 330.3215,
-      "tempoMedioMs": 0.003303215,
-      "cpuTotalMs": 344,
-      "cpuMedioMs": 0.00344,
-      "utilizacaoCpuComputadorPercentual": 13.01762071194276
+      "tempoTotalMs": 1238.2302,
+      "tempoMedioMs": 0.012382302,
+      "cpuTotalMs": 1235,
+      "cpuMedioMs": 0.01235,
+      "utilizacaoCpuComputadorPercentual": 12.467390958482518
     },
     {
       "amostra": 3,
       "execucoes": 100000,
-      "tempoTotalMs": 490.5131,
-      "tempoMedioMs": 0.004905131,
-      "cpuTotalMs": 453,
-      "cpuMedioMs": 0.00453,
-      "utilizacaoCpuComputadorPercentual": 11.544034196028608
+      "tempoTotalMs": 1165.7134,
+      "tempoMedioMs": 0.011657134000000001,
+      "cpuTotalMs": 1172,
+      "cpuMedioMs": 0.01172,
+      "utilizacaoCpuComputadorPercentual": 12.567411509552862
     },
     {
       "amostra": 4,
       "execucoes": 100000,
-      "tempoTotalMs": 469.2111,
-      "tempoMedioMs": 0.004692111,
-      "cpuTotalMs": 438,
-      "cpuMedioMs": 0.00438,
-      "utilizacaoCpuComputadorPercentual": 11.668521908369176
+      "tempoTotalMs": 1113.2033,
+      "tempoMedioMs": 0.011132033,
+      "cpuTotalMs": 1125,
+      "cpuMedioMs": 0.01125,
+      "utilizacaoCpuComputadorPercentual": 12.632463450296996
     },
     {
       "amostra": 5,
       "execucoes": 100000,
-      "tempoTotalMs": 376.7538,
-      "tempoMedioMs": 0.003767538,
-      "cpuTotalMs": 375,
-      "cpuMedioMs": 0.00375,
-      "utilizacaoCpuComputadorPercentual": 12.441812133016308
+      "tempoTotalMs": 1141.9039,
+      "tempoMedioMs": 0.011419039,
+      "cpuTotalMs": 1141,
+      "cpuMedioMs": 0.01141,
+      "utilizacaoCpuComputadorPercentual": 12.490105340738394
     },
     {
       "amostra": 6,
       "execucoes": 100000,
-      "tempoTotalMs": 358.4483,
-      "tempoMedioMs": 0.0035844830000000003,
-      "cpuTotalMs": 359,
-      "cpuMedioMs": 0.00359,
-      "utilizacaoCpuComputadorPercentual": 12.519239176193608
+      "tempoTotalMs": 1185.7549,
+      "tempoMedioMs": 0.011857548999999998,
+      "cpuTotalMs": 1187,
+      "cpuMedioMs": 0.01187,
+      "utilizacaoCpuComputadorPercentual": 12.513125604625374
     },
     {
       "amostra": 7,
       "execucoes": 100000,
-      "tempoTotalMs": 321.3854,
-      "tempoMedioMs": 0.003213854,
-      "cpuTotalMs": 328,
-      "cpuMedioMs": 0.00328,
-      "utilizacaoCpuComputadorPercentual": 12.757268998529492
+      "tempoTotalMs": 1514.6113,
+      "tempoMedioMs": 0.015146113000000001,
+      "cpuTotalMs": 1515,
+      "cpuMedioMs": 0.01515,
+      "utilizacaoCpuComputadorPercentual": 12.50320791875777
     },
     {
       "amostra": 8,
       "execucoes": 100000,
-      "tempoTotalMs": 346.3789,
-      "tempoMedioMs": 0.0034637889999999997,
-      "cpuTotalMs": 344,
-      "cpuMedioMs": 0.00344,
-      "utilizacaoCpuComputadorPercentual": 12.414151092921653
+      "tempoTotalMs": 2730.4414,
+      "tempoMedioMs": 0.027304414000000003,
+      "cpuTotalMs": 2719,
+      "cpuMedioMs": 0.02719,
+      "utilizacaoCpuComputadorPercentual": 12.447621106243115
     },
     {
       "amostra": 9,
       "execucoes": 100000,
-      "tempoTotalMs": 446.7014,
-      "tempoMedioMs": 0.004467014,
-      "cpuTotalMs": 438,
-      "cpuMedioMs": 0.00438,
-      "utilizacaoCpuComputadorPercentual": 12.256509605745583
+      "tempoTotalMs": 1737.9053,
+      "tempoMedioMs": 0.017379053,
+      "cpuTotalMs": 1735,
+      "cpuMedioMs": 0.01735,
+      "utilizacaoCpuComputadorPercentual": 12.479103435612977
     },
     {
       "amostra": 10,
       "execucoes": 100000,
-      "tempoTotalMs": 442.9761,
-      "tempoMedioMs": 0.004429761,
-      "cpuTotalMs": 453,
-      "cpuMedioMs": 0.00453,
-      "utilizacaoCpuComputadorPercentual": 12.782856682335684
+      "tempoTotalMs": 1171.2072,
+      "tempoMedioMs": 0.011712072,
+      "cpuTotalMs": 1171,
+      "cpuMedioMs": 0.01171,
+      "utilizacaoCpuComputadorPercentual": 12.497788606490806
     }
   ]
 }

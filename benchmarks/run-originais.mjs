@@ -19,18 +19,7 @@ const ADAPTERS = {
     "Quadrado criptografico": "quadradoCript.mjs",
     "React": "react.mjs",
     "Troco": "troco.mjs",
-    "Zipper": "zipper.mjs",
-    "Book store": "bookStore.mjs",
-    "Distancia relativa": "distanciaRelativa.mjs",
-    "Maior produto de uma serie": "maiorProduto.mjs",
-    "Matriz espiral": "matrizEspiral.mjs",
-    "Números OCR": "numerosOCR.mjs",
-    "Pontos de sela": "pontoDeSela.mjs",
-    "Conjectura de Collatz": "collatz.mjs",
-    "Conta bancaria": "contaBancaria.mjs",
-    "Era espacial": "eraEspacial.mjs",
-    "Pangrama": "pangrama.mjs",
-    "Transcrição de RNA": "rna.mjs"
+    "Zipper": "zipper.mjs"
 };
 
 function encontrarArquivosOriginais(diretorio, arquivos = []) {
